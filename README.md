@@ -15,3 +15,7 @@ By simply adding hd.css to your site, you will show your users that you support 
 # Installation
 
 Just add hd.css to your page and see results immediately.
+
+# What if my monitor doesn't support 1080p?
+
+Hardware does not get in the way of this revolutionary CSS
