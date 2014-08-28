@@ -1,4 +1,5 @@
 body:before {
+  z-index: 9999999;
   content: '';
   display: block;
   position: fixed;
