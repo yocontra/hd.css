@@ -1,5 +1,3 @@
-## hd.css
-
 # Conventional Site
 
 ![](https://i.cloudup.com/-MHAyEtaMK-3000x3000.png)
